@@ -10,3 +10,6 @@ What do you think are the pros and cons of manually choosing when to create a co
 
 1. pro: commit after logical changes
 2. con: you might forget to commit
+
+
+change
