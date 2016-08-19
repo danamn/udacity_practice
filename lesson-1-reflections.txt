@@ -1,0 +1,12 @@
+1. you can see the typos easily
+2. you can track all changes and reverse to an older version to see why it worked
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+1. you can track your learning process
+2. you can find easily useful new functions that you applied from one version to another
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+1. pro: commit after logical changes
+2. con: you might forget to commit
